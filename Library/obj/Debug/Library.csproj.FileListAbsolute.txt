@@ -1,0 +1,12 @@
+C:\Study\mipz\lab3\Library\bin\Debug\Library.dll
+C:\Study\mipz\lab3\Library\bin\Debug\Library.pdb
+C:\Study\mipz\lab3\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Study\mipz\lab3\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Study\mipz\lab3\Library\obj\Debug\Library.dll
+C:\Study\mipz\lab3\Library\obj\Debug\Library.pdb
+C:\Users\3A43Mka\Downloads\lab3\Library\bin\Debug\Library.dll
+C:\Users\3A43Mka\Downloads\lab3\Library\bin\Debug\Library.pdb
+C:\Users\3A43Mka\Downloads\lab3\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\3A43Mka\Downloads\lab3\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\3A43Mka\Downloads\lab3\Library\obj\Debug\Library.dll
+C:\Users\3A43Mka\Downloads\lab3\Library\obj\Debug\Library.pdb
